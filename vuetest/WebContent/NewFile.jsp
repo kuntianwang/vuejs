@@ -6,7 +6,6 @@
 <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
-</head>
 <style>
     body{
         font-family:"Microsoft YaHei";
@@ -40,6 +39,7 @@
         padding-top: 20px;
     }
 </style>
+</head>
 <body>
 <div id="tab">
     <div class="tab-tit">
